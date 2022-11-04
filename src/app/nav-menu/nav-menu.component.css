@@ -1,0 +1,14 @@
+mat-toolbar {
+    
+    background-color: blueviolet;
+    color: green;
+    font-family: 'Courier New', Courier, monospace;
+}
+.navMenu {
+    margin-top: 2px;
+    width: 95%;
+}
+.avatar-user{
+    background-image: url('https://i.ytimg.com/vi/F8qCoZ1It0w/hqdefault.jpg'); 
+    background-size: cover
+}
